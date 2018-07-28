@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<Monsters>
+  <Amount>2</Amount>
+  <Monster>
+    <ID>1</ID>
+    <Name>Bulbasaur</Name>
+    <Base>45,49,49,65,65,45</Base>
+    <Type>GRASS,POISON</Type>
+    <EGroup>2</EGroup>
+  </Monster>
+  <Monster>
+    <ID>19</ID>
+    <Name>Rattata</Name>
+    <Base>30,56,35,25,35,72</Base>
+    <Type>NORMAL</Type>
+    <EGroup>1</EGroup>
+  </Monster>
+</Monsters>
